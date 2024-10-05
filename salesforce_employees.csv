@@ -1,0 +1,33 @@
+address,age,bonus,city,department,email,employee_title,first_name,id,last_name,manager_id,salary,sex,target
+1069 Ventura Drive,55,300,California,Management,Allen@company.com,Manager,Allen,1,Wang,1,200000,F,600
+1176 Tyler Avenue,31,150,Florida,Sales,Sarrah@company.com,Senior Sales,Sarrah,20,Bicky,19,2000,F,500
+3461 Preston Street,33,100,Arizona,Sales,Molly@company.com,Sales,Nicky,7,Bat,13,1400,F,400
+39,125,Texas,Sales,steve@company.com,Sales,Steve,31,Smith,13,1500,M,400
+38,150,Florida,Sales,david@company.com,Sales,David,32,Warner,13,1200,M,400
+44,150,Florida,Sales,Mick@company.com,Senior Sales,Mick,17,Berry,11,2200,M,400
+4541 Ferry Street,30,100,Alabama,Sales,Adam@company.com,Sales,Adam,24,Morris,19,1300,M,400
+995 Jim Rosa Lane,32,150,California,Sales,Joe@company.com,Sales,Joe,2,Jack,1,1000,M,200
+1609 Ford Street,31,150,California,Sales,Henry@company.com,Senior Sales,Henry,3,Ted,1,2000,M,200
+2638 Richards Avenue,26,150,California,Sales,Max@company.com,Sales,Max,5,George,1,1300,M,200
+33,100,Alabama,Sales,Molly@company.com,Sales,Monika,9,William,13,1000,F,200
+34,150,Alabama,Sales,Jennifer@company.com,Sales,Jennifer,10,Dion,13,1000,F,200
+23,150,Arizona,Audit,Shandler@company.com,Auditor,Shandler,12,Bing,11,1100,M,200
+23,150,Arizona,Audit,Jason@company.com,Auditor,Jason,14,Tom,11,1000,M,200
+27,150,Colorado,Audit,Celine@company.com,Auditor,Celine,16,Anston,11,1000,F,200
+3655 Spirit Drive,26,150,Florida,Sales,Laila@company.com,Sales,Laila,18,Mark,11,1000,F,200
+1275 Monroe Avenue,34,150,Florida,Sales,Suzan@company.com,Sales,Suzan,21,Lee,19,1300,F,200
+2510 Maryland Avenue,31,150,Florida,Sales,Mandy@company.com,Sales,Mandy,22,John,19,1300,F,200
+3946 Steve Hunt Road,45,100,Florida,Sales,Britney@company.com,Sales,Britney,23,Berry,19,1200,F,200
+3762 Stratford Drive,29,100,Hawaii,Sales,Jack@company.com,Sales,Jack,25,Mick,19,1300,M,200
+801 Stratford Drive,32,150,Hawaii,Sales,Tom@company.com,Sales,Tom,27,Fridy,1,1200,M,200
+2641 Randall Drive,25,150,Hawaii,Sales,Morgan@company.com,Sales,Morgan,28,Matt,1,1200,M,200
+2522 George Avenue,28,150,Alabama,Sales,Mark@company.com,Sales,Mark,30,Jon,1,1200,M,200
+3533 Randall Drive,34,150,Hawaii,Sales,Antoney@company.com,Sales,Antoney,29,Adam,1,1300,M,180
+44,150,Colorado,Audit,Michale@company.com,Auditor,Michale,15,Jackson,11,700,F,150
+3055 Indiana Avenue,43,100,Hawaii,Sales,Ben@company.com,Sales,Ben,26,Ten,19,1300,M,150
+4832 New Creek Road,26,100,Alabama,Sales,Molly@company.com,Senior Sales,John,8,Ford,13,1500,M,140
+4869 Libby Street,25,150,California,Sales,Sam@company.com,Sales,Sam,4,Mark,1,1000,M,120
+3632 Polk Street,28,150,Arizona,Sales,Molly@company.com,Sales,Molly,6,Sam,13,1400,F,100
+57,300,Alabama,Management,Richerd@company.com,Manager,Richerd,11,Gear,1,250000,M,0
+56,300,Arizona,Management,Katty@company.com,Manager,Katty,13,Bond,1,150000,F,0
+1003 Wyatt Street,50,300,Florida,Management,George@company.com,Manager,George,19,Joe,1,100000,M,0
